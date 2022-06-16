@@ -1,7 +1,7 @@
 # product-cart-vuecli
 
 ## Hosted Live Demo on Netlify
-[Product Cart Vuejs - https://product-cart-vuejs.netlify.app/](https://product-cart-vuejs.netlify.app/).
+[Product Cart Vuejs - https://product-cart-vuejs.netlify.app](https://product-cart-vuejs.netlify.app/)
 
 ## Project setup
 ```
